@@ -1,0 +1,7 @@
+flask
+flask_restplus
+flask_login
+logging
+pytest
+werkzeug
+flask_sqlalchemy
